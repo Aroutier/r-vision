@@ -1,2 +1,15 @@
 
 Commandes d'initialisation du projet:
+
+Créer un dépôt sur github
+Puis créer un dossier local avec un fichier .txt
+Faire gitbashhere sur le dossier local
+
+Lancer les commandes de configurations :
+•	git config --global user.name "Aroutier" 
+
+•	git config --global user.email "alexandre.routier2205@gmail.com" 
+
+•	git config --global color.ui auto
+
+•	git config --list
